@@ -1,6 +1,8 @@
 # TempoCidad
 Repositório de código para o projeto TempoCidad desenvolvido na Softex no projeto de Extensão Tecnológica
 
+O projeto foi desenvolvido para Internet das Coisas com ESP32 e Nuvem com a plataforma ThingSpeak.
+
 # CONEXÕES E PORTAS 
 
 
